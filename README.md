@@ -14,9 +14,10 @@ The workspace contains two folders by default, where:
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
 
 
-# //***************************************************************//
+# //-----------------------//
 # // Junit -> Jenkins
-# //***************************************************************//
+# //-----------------------//
+
 Part 1 :	https://www.youtube.com/watch?v=tF7iFi5xSAQ
 Part 2 :	https://www.youtube.com/watch?v=LiEo0zdsfxE
 Github : 	https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkl0eEU0c3JRcUwxVG1tNEJQaGhhZFpkTmhWZ3xBQ3Jtc0trM1hNTzYzY0FEY3BNVEtRbDh0dF9vRlkxTElCYmY2c3hUZDNGdnp4VEtnamxUWXJjWFhLUXhudjR2dzNsMUxQUDNxNVROZkprTUFMOXJZTjg1R0x2Y0ZEU3U5SW02R3RhOV9HdG1SR1N6cFpnTDRPVQ&q=https%3A%2F%2Fgithub.com%2Fmoss-n%2Fjunit-automation
