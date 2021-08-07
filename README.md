@@ -14,9 +14,9 @@ The workspace contains two folders by default, where:
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
 
 
-# //-----------------------//
-# // Junit -> Jenkins
-# //-----------------------//
+# -----------------------//
+# Junit -> Jenkins
+# -----------------------//
 
 Part 1 :	https://www.youtube.com/watch?v=tF7iFi5xSAQ
 Part 2 :	https://www.youtube.com/watch?v=LiEo0zdsfxE
